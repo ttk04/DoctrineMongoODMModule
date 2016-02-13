@@ -36,7 +36,7 @@
     "require": {
         "php": ">=5.3.3",
         "doctrine/doctrine-module": "1.0.*@dev",
-        "ttk04/mongodb-odm": "~1.0.x@dev",
+        "ttk04/mongodb-odm": "~1.0.*@dev",
         "zendframework/zend-mvc": "~2.2",
         "zendframework/zend-servicemanager": "~2.2",
         "zendframework/zend-stdlib": "~2.2"
