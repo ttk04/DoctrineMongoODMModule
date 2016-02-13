@@ -1,5 +1,5 @@
 {
-    "name":        "doctrine/doctrine-mongo-odm-module",
+    "name":        "ttk04/doctrine-mongo-odm-module",
     "description": "Zend Framework 2 Module that provides Doctrine MongoDB ODM functionality",
     "type":        "library",
     "homepage":    "http://www.doctrine-project.org/",
